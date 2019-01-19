@@ -296,6 +296,7 @@
             this.button1.TabIndex = 52;
             this.button1.Text = "%";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.allbtn_Click);
             // 
             // button2
             // 
